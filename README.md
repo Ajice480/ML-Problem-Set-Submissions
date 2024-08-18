@@ -3,3 +3,5 @@ Contains solutions for all nine problems in the ML Problem Set for Intro to Mach
 
 Solutions for Exercises 2, 3, 4, 7 and 9 are in the Jupyter notebooks in this repository.
 Solutions for the rest are in the attached R Markdown file.
+
+Author: Alexander Schmelzeis
